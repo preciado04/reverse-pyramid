@@ -30,7 +30,6 @@
       }
       row += '\n'; // Newline character.
       reversePyramid += row;
-      console.log(i, row);
     }
 
     // Add reverse pyramid on page.
